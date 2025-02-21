@@ -4,3 +4,4 @@ langchain-openai
 langchain-core
 langchain_community
 bs4
+faiss-cpu
